@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO, SINGLE
+FAIL     # <- TORPEDO, ALL  - we fired the only torpedo in the last round
